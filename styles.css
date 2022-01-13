@@ -12,6 +12,12 @@
     font-size:50px;
     color: rgb(49, 43, 43);
   }
+  .subtitles{
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:30px;
+    color: rgb(49, 43, 43);
+  }
   .title{
     text-align:center;
     font-style: italic;
@@ -22,6 +28,8 @@
     width: 5%;
     border-width: 5px;
     border-color:rgb(77, 77, 77);
+    margin-top: 40px;
+    margin-bottom: 40px;
  }
  section{
      text-align: center;
@@ -32,6 +40,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(49, 43, 43);
  }
+
  .font2{
     font-style: oblique;
     font-family:Georgia, 'Times New Roman', Times, serif;
