@@ -2,29 +2,34 @@
   body{
     background-color: antiquewhite;
     }
+
   .img {
-    border-radius: 50%;
+    border-radius: 50%; /* makes image rounded*/
     margin-right: 1cm;
   }
+
   h1{
     text-align:center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:50px;
     color: rgb(49, 43, 43);
   }
+
   .subtitles{
     text-align:center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:30px;
     color: rgb(49, 43, 43);
   }
-  .title{
+
+  .title{    /* used only for job title*/
     text-align:center;
     font-style: italic;
     color:rgb(77, 77, 77);
   }
+
   hr {
-    border-style: dotted none none none;
+    border-style: dotted none none none;  /* keeps only one border*/
     width: 5%;
     border-width: 5px;
     border-color:rgb(77, 77, 77);
@@ -46,11 +51,9 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(49, 43, 43);
  }
- .centertable {
-    margin-left: auto;
-    margin-right: auto;
-  }
+
+
   a {
-    text-decoration: underline wavy grey;
+    text-decoration: underline wavy grey;  /* to make clickable links more visible*/
   }
 
