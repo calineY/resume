@@ -15,13 +15,13 @@
   .title{
     text-align:center;
     font-style: italic;
-    color:lightslategrey;
+    color:rgb(77, 77, 77);
   }
   hr {
     border-style: dotted none none none;
     width: 5%;
     border-width: 5px;
-    border-color:lightslategrey;
+    border-color:rgb(77, 77, 77);
  }
  section{
      text-align: center;
@@ -30,7 +30,13 @@
 
  }
  .font1{
+    font-size: large; 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(49, 43, 43);
+ }
+ .font2{
+     font-style: oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(49, 43, 43);
  }
 
