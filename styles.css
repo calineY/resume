@@ -1,6 +1,6 @@
 
   .moveright {
-    margin-left: 30%;
+    margin-left: 39%;
   }
   .img {
     border-radius: 50%;
@@ -46,5 +46,8 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(49, 43, 43);
  }
-
+ .centertable {
+    margin-left: auto;
+    margin-right: auto;
+  }
 
