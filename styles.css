@@ -1,15 +1,7 @@
-#col-1 {
-    position: relative;
-    width: 20%;
-    height: 100%;
-    float: left;
-    background-color: #a03838;
+
+  .moveright {
+    margin-left: 30%;
   }
-  
-  #col-2 {
-    position: relative;
-    width: 80%;
-    height: 100%;
-    float: right;
-    background-color: #a6abaf;
+  .img {
+    border-radius: 50%;
   }
