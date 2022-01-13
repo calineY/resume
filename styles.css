@@ -21,4 +21,17 @@
     border-style: dotted none none none;
     width: 5%;
     border-width: 5px;
-    border-color:lightslategrey;}
+    border-color:lightslategrey;
+ }
+ section{
+     text-align: center;
+     margin-top: 50px;
+     margin-bottom: 50px;
+
+ }
+ .font1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(49, 43, 43);
+ }
+
+
