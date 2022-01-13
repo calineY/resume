@@ -25,17 +25,15 @@
  }
  section{
      text-align: center;
-     margin-top: 50px;
-     margin-bottom: 50px;
-
  }
+
  .font1{
     font-size: large; 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(49, 43, 43);
  }
  .font2{
-     font-style: oblique;
+    font-style: oblique;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(49, 43, 43);
  }
